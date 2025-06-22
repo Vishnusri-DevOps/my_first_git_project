@@ -1,2 +1,1 @@
-"This is my first Git project." 
-"This project is about learning Git."
+"This is the conflicting update on the main branch." 
